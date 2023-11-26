@@ -1,10 +1,11 @@
 # 23-3 Capstone Design Project - Optimus GPrime
 
 <div style="display:flex; flex-direction:row;">
-  <img src="https://img.shields.io/badge/CUDA-#A8B9CC?style=flat-square&logo=nvidia&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/python#3776AB?style=flat-square&logo=python&logoColor=white"/>     
-  <img src="https://img.shields.io/badge/pytorch#EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Bash#4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=cplusplus&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/CUDA-%23A8B9CC?style=flat-square&logo=nvidia&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white"/>     
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Bash-%234EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
 </div>
 
 ## Project Overview
