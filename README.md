@@ -1,6 +1,11 @@
 # 23-3 Capstone Design Project - Optimus GPrime
 
-<img src="https://img.shields.io/badge/CUDA-#A8B9CC?style=flat-square&logo=nvidia&logoColor=white"/> <img src="https://img.shields.io/badge/python#3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch#EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Bash#4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+<div style="display:flex; flex-direction:row;">
+  <img src="https://img.shields.io/badge/CUDA-#A8B9CC?style=flat-square&logo=nvidia&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/python#3776AB?style=flat-square&logo=python&logoColor=white"/>     
+  <img src="https://img.shields.io/badge/pytorch#EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Bash#4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+</div>
 
 ## Project Overview
 Welcome to the Optimus GPrime Capstone Design Project! This GitHub repository contains the code and instructions for setting up and running experiments related to our capstone design project. The primary focus is on implementing and benchmarking vLLM, a language model, with specific configurations and datasets.
