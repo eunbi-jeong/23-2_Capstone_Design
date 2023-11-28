@@ -104,6 +104,8 @@ PREEMPT_MODE="swap" # recompute or swap
 export TOKENIZERS_PARALLELISM=TRUE # EB: Set as distributed mode
 nohup python3 -u $BENCH_FILE --model=$MODEL_PATH --dataset=$DATASET_PATH > $MODEL"_"$DATASET"_block"$BLOCKSIZE"_"$PREEMPT_MODE".out" 2>&1
 ```
+
+---
 ### TEAM Optimus GPrime Members
 |[Jaeeun Hwang](https://github.com/jaeeunHwang)|[Eunbi Jeong](https://github.com/eunbi-jeong)|[Ikyung Choi](https://github.com/ikikchoi)|
 |:---:|:---:|:---:|
